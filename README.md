@@ -30,7 +30,7 @@ This is a Progressive Web Application (PWA) implementation of the classic 2D Sna
     ```sh
     npm start
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:8443`.
 
 ## Service Worker
 
